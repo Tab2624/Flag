@@ -1,0 +1,58 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.top{
+    display: flex;
+}
+
+.blueBox{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.six{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    width: 300px;
+    /* flex: 1; */
+    /* margin-bottom: 20px; */
+}
+
+.five{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    width: 300px;
+    /* flex: 1; */
+    /* margin-bottom: 20px; */
+}
+
+.red{
+    background-color: red; 
+    width: 650px;
+    height: 40px;
+    margin: 46.5px 0px;
+}
+
+#up{
+    margin-top: 0px;
+}
+
+.secondRow{
+    background-color: red;
+    width: 950px;
+    height: 40px;
+    margin: 46.5px 0px;
+}
+
+#up2{
+    margin-top: 0px;
+}
